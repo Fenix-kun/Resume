@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #212121;
+}
+h1 {
+    color:aliceblue;
+}
+video {
+    width: 70vw;
+}
